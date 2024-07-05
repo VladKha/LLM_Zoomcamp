@@ -6,3 +6,8 @@ pandas
 scikit-learn
 torch
 transformers
+accelerate
+bitsandbytes
+sentencepiece
+streamlit
+requests

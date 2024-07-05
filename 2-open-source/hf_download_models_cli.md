@@ -1,0 +1,1 @@
+`huggingface-cli download microsoft/Phi-3-mini-128k-instruct`
