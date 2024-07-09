@@ -11,3 +11,5 @@ bitsandbytes
 sentencepiece
 streamlit
 requests
+
+sentence_transformers==2.7.0
