@@ -165,3 +165,8 @@ cython_debug/
 
 # Direnv
 .envrc
+
+# dlt stuff
+.dlt
+.lancedb
+nohup.out
