@@ -1,8 +1,14 @@
 1. Install
    - [General info for all platforms](https://github.com/ollama/ollama#ollama)
    - macOS better option: `brew install ollama`
-2. Start server `ollama start`
-3. Serve some model (e.g. `phi3 mini`) in terminal chat
+2. Start server in separate terminal
+    ```bash
+    ollama start
+    ```
+3. Run some model (e.g. `phi3 mini`) in terminal chat
+    ```bash
+    ollama run phi3
+    ```
 4. Connecting to it with OpenAI API (drop-in replacement):
     ```python
     from openai import OpenAI
